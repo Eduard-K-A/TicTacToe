@@ -1,0 +1,47 @@
+# TicTacToe
+my own TicTacToe in C++
+my tic tac toe
+ Start Date - March 18, 2025
+ time march 18,2025 - 19:20 - 20:16
+
+ march 20, 2025 - 14:02 - 14:33
+to do:
+- fix checker
+    check every pattern
+- add rules
+    -ex. players cant input the same number
+
+march 20, 2025 - 14:02 - 14:36
+changes:
+- fixed board updating every move
+- fixed player's move
+
+
+april 3, 2025 - 10:20 - 11:00
+changes:
+- fixed checker (not finished)
+- no functionalities when game is done
+
+june 7, 2025 - 20:10 - 20:50
+changes:
+- in branch firstB
+- changed the whole structure of the code
+- fixed win, draw validations for 2 player mode
+- included validations for overriding inputs
+- improved board UI
+
+june 8, 2025 - 11:15 - 
+changes:
+- after 2 play mode finished, resets board if player wants another round
+- added single player 
+- easy and medium mode
+    - easy mode, ai will move sequentially (1,2,3,4, ...)
+    - medium mode, ai will move randomnly
+- added system clear 
+
+
+//KEEP IN MIND
+- add validation so players cant input on same number(place) twice, overriding previous input -- done
+- if game has no winner, ask for retry  -- done
+- display winner of the game -- done
+- implement single player through AI (FUCK) -- done (easy af)
