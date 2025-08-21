@@ -5,6 +5,7 @@
 
 using namespace std;
 
+void home(){}
 // start
 void start()
 {
